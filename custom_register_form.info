@@ -1,0 +1,9 @@
+name = Custom register form
+description = alter register form.
+core = 7.x
+
+package = Custom
+version = "7.x-2.0"
+core = "7.x"
+project = "custom"
+datestamp = "1347917009"
